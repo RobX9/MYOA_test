@@ -1,0 +1,17 @@
+* {
+  background-color: #23f5ee;
+}
+
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+
+p {
+  font-size: xx-large;
+  background-color: green;
+}
+
+.paragraph {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
